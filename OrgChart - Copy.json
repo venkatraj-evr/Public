@@ -6,6 +6,7 @@
         "title":  "VP - Test Test",
         "email":  "Test.Test@Test.com",
         "department":  "Test Test",
-        "country":  "Test"
+        "country":  "Test",
+        "image": ""
     }
 ]
